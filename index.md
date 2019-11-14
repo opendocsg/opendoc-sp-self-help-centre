@@ -43,7 +43,7 @@ Useful links:
 
 1) [About OSC](https://www.sp.edu.sg/sp/student-services/osc-overview/about-osc)
 
-What can I do if I had provided the wrong information during registration?
+## What can I do if I had provided the wrong information during registration?
 
 We would be able to assist you to amend any of these information after making a registration:
 
@@ -67,7 +67,7 @@ Please note that transfer of applications from one individual to another individ
 
 The above notwithstanding, please note that all requests and appeals thereof are subjected to approval and further verification if so required, and our decision is final.
 
-How do I apply/register for a course/programme through the PACE Academy website?
+## How do I apply/register for a course/programme through the PACE Academy website?
 
 **STEP 1: PREPARATION**
 
@@ -202,7 +202,7 @@ Do note that course confirmation/update will be sent to you typically around two
 
 3) [Location/Navigation options to the PACE Academy (using Google Map etc,)](https://sp-pace.zendesk.com/hc/en-us/articles/225191667-Where-is-the-PACE-Academy-and-how-do-I-get-there-)
 
-How do I make an online e-Payment through the PACE Academy website?
+## How do I make an online e-Payment through the PACE Academy website?
 
 **STEP 1: PREPARING YOUR DEVICE FOR ONLINE PAYMENT**
 
@@ -248,7 +248,7 @@ To recap, you may refer to the video below:
 
 ![Alternative Text](assets/images/14.png)
 
-What is the Registration Of Interest (ROI)?
+## What is the Registration Of Interest (ROI)?
 
 As information about the next run or intake for some course/programmes may not be readily available for various reasons, PACE offers the public a convenient online service called the Registration of Interest (ROI).
 
@@ -276,7 +276,7 @@ You may register for this service through this link - [Registration of Interest
 
 5) Click on the Submit button and check your email inbox for our email confirmation (might take a while to receive. Otherwise, check your spam/junk folder).
 
-Alternatives to Counter Service
+## Alternatives to Counter Service
 
 **INTRODUCTION**
 
@@ -396,7 +396,7 @@ Attn: Customer Service**
 
 Write your registration no. e.g R19000XXXXX at the back of the cheque/money order.
 
-DropBox Service at the PACE Academy
+## DropBox Service at the PACE Academy
 
 **INTRODUCTION**
 
@@ -467,7 +467,7 @@ However, PACE may not be expected to personally acknowledge each item received. 
 
 ![Alternative Text](assets/images/20.png)
 
-How do I search for courses on the PACE Academy website?
+## How do I search for courses on the PACE Academy website?
 
 Please refer to the instructional video below:
 
