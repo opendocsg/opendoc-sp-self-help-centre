@@ -1,4 +1,6 @@
-# Establishment of the One-Stop Centre (OSC) in the Singapore Polytechnic
+# Introduction
+
+## Establishment of the One-Stop Centre (OSC) in the Singapore Polytechnic
 
 Dear all,
 

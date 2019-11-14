@@ -12,6 +12,9 @@ google_analytics:  #----> Optional, Google analytics ID
 fast_build: false
 offline: false
 preload_pages: true
+order: 
+  - 'index.md'
+  - 'faq.md'
 
 styling_options:
   primary_brand_color: '#444'  #----> Optional, theme color
