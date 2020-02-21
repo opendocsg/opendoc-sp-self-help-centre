@@ -25,15 +25,9 @@ hide_toolbar:
   github: true
 
 folders:
-  - name: '/Quick Articles'
+  - name: '/'
     title: 'PACE Academy Self Help Centre'
     subtitle: ''
     order:
-
-    
-folders:
-  - name: '/Technical Advice'
-    title: 'PACE Academy Self Help Centre'
-    subtitle: ''
-    order:
-
+    - Quick Articles
+    - Technical Advice
