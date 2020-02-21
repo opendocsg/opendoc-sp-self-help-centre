@@ -28,6 +28,6 @@ folders:
   - name: '/'
     title: 'PACE Academy Self Help Centre'
     subtitle: ''
-    order:
+    document_order:
     - Quick Articles
     - Technical Advice
