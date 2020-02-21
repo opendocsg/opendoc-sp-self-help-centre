@@ -25,9 +25,15 @@ hide_toolbar:
   github: true
 
 folders:
-  - name: '/'
-    title: 'Singapore Polytechnic Self Help Centre'
+  - name: '/Quick Articles'
+    title: 'PACE Academy Self Help Centre'
     subtitle: ''
     order:
-    - 'Quick Articles'
-    - 'Technical Advice'
+
+    
+folders:
+  - name: '/Technical Advice'
+    title: 'PACE Academy Self Help Centre'
+    subtitle: ''
+    order:
+
