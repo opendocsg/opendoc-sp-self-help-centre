@@ -14,7 +14,7 @@ offline: false
 preload_pages: true
 
 styling_options:
-  primary_brand_color: '#444'  #----> Optional, theme color
+  primary_brand_color: '#000080'  #----> Optional, theme color
   logo_path: /assets/logo.png  #----> Optional, path to logo
   opendoc_logo_path: /assets/images/logo-full.png
   feedback_url: https://form.gov.sg/5cee3d46138e3200109244df #----> Optional, feedback url
@@ -29,4 +29,5 @@ folders:
     title: 'Singapore Polytechnic Self Help Centre'
     subtitle: ''
     order:
-    - 'faq.md'
+    - 'Quick Articles'
+    - 'Technical Advice'
