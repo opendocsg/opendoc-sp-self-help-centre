@@ -1,6 +1,6 @@
 title: PACE Academy Self Help Centre
 remote_theme: opendocsg/opendoc-theme@v2
-repository: opendoc-sp-self-help-centre
+repository: opendocsg/opendoc-sp-self-help-centre
 plugins:
   - jekyll-include-cache
 baseurl: ''
