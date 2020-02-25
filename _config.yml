@@ -13,5 +13,4 @@ styling_options:
   logo_path: /assets/sp3.jpg
   opendoc_logo_path: /assets/sp3.jpg
 document_order:
-  - QuickArticles
   - Technical
