@@ -1,12 +1,18 @@
 title: PACE Academy Self Help Centre
-remote_theme: opendocsg/opendoc-theme@v2
+remote_theme: opendocsg/opendoc-theme@master
+timezone: Asia/Singapore
 repository: opendocsg/opendoc-sp-self-help-centre
 plugins:
   - jekyll-include-cache
 baseurl: ''
 server_PROD: 'https://search.opendoc.sg'
 server_DEV: 'https://search-staging.opendoc.sg'
-fast_build: true
+google_analytics:  #----> Optional, Google analytics ID
+
+fast_build: false
+offline: false
+preload_pages: true
+
 offline_search_only: false
 styling_options:
   primary_brand_color: '#000080'
