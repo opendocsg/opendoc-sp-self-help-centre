@@ -1,9 +1,9 @@
-#Technical trounleshoopting
+# Technical trounleshoopting
 
-##Hello word
+## Hello word
 
 
 
-##Hellow world 2
+## Hellow world 2
 
 ## Hellow workld 1
