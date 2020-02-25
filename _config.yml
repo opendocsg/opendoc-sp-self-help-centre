@@ -28,5 +28,5 @@ folders:
   - name: '/'
     title: 'PACE Academy Self Help Centre'
     subtitle: ''
-document_order:
-- QuickArticles
+    order:
+      - QuickArticles
