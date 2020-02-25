@@ -1,5 +1,5 @@
 
-# Frequently Asked Questions (FAQ)
+Frequently Asked Questions (FAQ)
 
 ## What can I do if I had provided the wrong information during registration?
 
