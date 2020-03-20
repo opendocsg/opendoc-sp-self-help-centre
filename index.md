@@ -4,17 +4,13 @@ Dear all,
 
 We are pleased to inform you that, with effect from 01 October 2019 (Tuesday), the Singapore Polytechnic will consolidate its customer service functions to a single convenient location at:
 
- 
-
 The One-Stop-Centre (currently, the Student Service Centre)
 Blk T1611 
 500 Dover Road, Singapore Polytechnic
 Singapore 139651
 
 (Located at level 1/Ground floor. The centre is directly facing the Dover MRT and next to McDonald's inside the campus)
-
  
-
 All PACE Academy customer services will henceforth be provided from the OSC, including:
 
 1) General enquiries
@@ -29,24 +25,18 @@ With the implementation of the OSC, PACE Academy will cease operating its counte
 
 Should you require any further assistance, please contact us at our hotline at 6772-1288 or email to pace@sp.edu.sg. 
 
- 
 
-< Map >
+----------------------
 
-
-
-< Facade >
-
-Image result for sp student services centre
-
-Advice to all PACE trainers/ALs:
+##Advice to all PACE trainers/ALs:
 
 Please liaise closely with your respective programme administrators pertaining to all matters concerning course administration in light of this development.
 
 If you need further assistance, please send a WhatsApp message to 8607-5440.
 
+----------------------
  
 
-Useful links:
+##Useful links:
 
 More info? https://www.sp.edu.sg/sp/student-services/osc-overview/about-osc 
