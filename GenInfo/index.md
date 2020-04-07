@@ -1,6 +1,3 @@
 ---
-title: General Information
-subtitle: "General Information"
-tags:
-
+title: General Information 
 ---
