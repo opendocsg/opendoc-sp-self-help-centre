@@ -26,18 +26,16 @@ All PACE Academy customer services will henceforth be provided from the OSC, inc
 Should you require any further assistance, please contact us at our hotline at 6772-1288 or email to pace@sp.edu.sg. 
 
 
-----------------------
-
 ## Advice to all PACE trainers/ALs
 
 Please liaise closely with your respective programme administrators pertaining to all matters concerning course administration in light of this development.
 
 If you need further assistance, please send a WhatsApp message to 8607-5440.
 
-----------------------
- 
 
 ## Useful link
 
 More info? https://www.sp.edu.sg/sp/student-services/osc-overview/about-osc 
 
+
+[20 March 2020]
