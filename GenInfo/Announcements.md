@@ -1,8 +1,4 @@
-----
-title: Announcements 
- 
-----
-
+# Announcements
 
 ## Notice of Office Closure
 
