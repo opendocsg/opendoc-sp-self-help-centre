@@ -1,6 +1,6 @@
 ---
 title: General Information
-subtitle: ""
+subtitle: "General Information"
 tags:
 
 ---
