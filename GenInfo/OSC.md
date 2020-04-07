@@ -9,7 +9,7 @@ Blk T1611
 500 Dover Road, Singapore Polytechnic
 Singapore 139651
 
-_(Located at level 1/Ground floor. The centre is directly facing the Dover MRT and next to McDonald's inside the campus)
+_(Located at level 1/Ground floor. The centre is directly facing the Dover MRT and next to McDonald's inside the campus)_
  
 All PACE Academy customer services will henceforth be provided from the OSC, including:
 
