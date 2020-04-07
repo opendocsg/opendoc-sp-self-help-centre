@@ -28,7 +28,7 @@ Should you require any further assistance, please contact us at our hotline at 6
 
 ----------------------
 
-## Advice to all PACE trainers/ALs:
+## Advice to all PACE trainers/ALs
 
 Please liaise closely with your respective programme administrators pertaining to all matters concerning course administration in light of this development.
 
@@ -37,6 +37,6 @@ If you need further assistance, please send a WhatsApp message to 8607-5440.
 ----------------------
  
 
-## Useful links:
+## Useful links
 
 More info? https://www.sp.edu.sg/sp/student-services/osc-overview/about-osc 
