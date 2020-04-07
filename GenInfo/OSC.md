@@ -13,13 +13,13 @@ _(Located at level 1/Ground floor. The centre is directly facing the Dover MRT a
  
 All PACE Academy customer services will henceforth be provided from the OSC, including:
 
-1) General enquiries
-2) Document submissions
-3) Registrations
-4) Collections
-5) Appointments with PACE staff
-6) Payments (excluding cash payments)
-7) Enrolment
+1. General enquiries
+2. Document submissions
+3. Registrations
+4. Collections
+5. Appointments with PACE staff
+6. Payments (excluding cash payments)
+7. Enrolment
 
 **With the implementation of the OSC, the PACE Academy will cease its counter operations and services.**
 
