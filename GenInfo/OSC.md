@@ -21,7 +21,7 @@ All PACE Academy customer services will henceforth be provided from the OSC, inc
 6) Payments (excluding cash payments)
 7) Enrolment
 
-**With the implementation of the OSC, PACE Academy will cease operating its counter services permanently.**
+**With the implementation of the OSC, the PACE Academy will cease its counter operations and services.**
 
 Should you require any further assistance, please contact us at our hotline at 6772-1288 or email to pace@sp.edu.sg. 
 
