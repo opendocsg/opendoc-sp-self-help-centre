@@ -8,7 +8,7 @@ However, please be assured that all of our online services are still operating n
 
 [07 Apr 2020]
 
-## Status of PACE Porgammes/Courses
+## Status of PACE Progammes/Courses
 
 Given the current COVID-19 situation, the PACE Academy will be moving our programmes and courses onto e-learning mode. However, for certain affected programmes and courses, we may issue a notice for postponement or cancellation.
 
