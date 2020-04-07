@@ -1,8 +1,3 @@
----
-title: One Stop Centre
----
-
-
 # Establishment of the One-Stop Centre (OSC) in the Singapore Polytechnic
 
 Dear all,
