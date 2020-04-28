@@ -2,11 +2,11 @@
 
 ## Notice of Office Closure
 
-The PACE Academy office will be closed from 07 April  to 04 May 2020. We will resume normal operations from 05 May 2020 onwards.
+The PACE Academy office will be closed throughout the Circuit Breaker period. We expect to resume normal (office) operations from 02 June 2020 onwards.
 
 However, please be assured that all of our online services are still operating normally, including the PACE Hotline (6772-1288).
 
-[07 Apr 2020]
+[28 Apr 2020]
 
 ----------------------
 
