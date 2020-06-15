@@ -1,4 +1,4 @@
-# Announcements
+# Notices and Updates
 
 ## Notice of Office Closure
 
