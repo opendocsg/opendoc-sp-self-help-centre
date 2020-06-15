@@ -143,20 +143,22 @@ If you would like to proceed to confirm the registration, click on the "Proceed"
 
 ## Step 6: Make payment online
 
-### (i) PREPARING YOUR DEVICE FOR ONLINE PAYMENT
+### (i) Preparing your device
 Please ensure that your pop-up is enabled (or blocker disabled) before proceeding further. This should have been resolved by the Self-Diagnostic Test page.
 
-### (ii) USE A STABLE INTERNET BROWSER
+### (ii) Choice of Internet Browser
 
 If you are unable to use Internet Edge or Safari, we recommend using Google Chrome instead.
 
-### (iii) REGISTRATION ID
+### (iii) Registration ID
 
 It is important for you to have your Registration ID for this purpose. If you have just completed registration, this process will be seamless.
 
+*Note: This guide is meant for those who are registering as individuals or in a group where payment is expected immediately after registration. For company sponsored participants, please await separate payment instructions based on our Tax Invoice.*
+
 Please contact us through our hotline at +65 6772-1288 or email us at pace@sp.edu.sg for further assistance if you are unsure or facing certain difficulty.
 
-### (iv) GO TO THE PAYMENT LINK
+### (iv) Proceed to Payment Link
 
 Access our online payment by clicking here -->  [PACE Online Payment](https://mycems.sp.edu.sg/psc/ppct_public/EMPLOYEE/HRMS/c/S_AD_MENU.S_AD_EPAYMENT.GBL)
 
@@ -173,9 +175,7 @@ You may choose to make payment online through either the following:
 
 After which, you may input the required payment information accordingly. Please check the information provided before proceeding. Also, it might help if you check with your bank on whether your card is authorised to perform online transactions.
 
-Once done, click on the Submit button to proceed. Please take note of the transaction outcome on whether it is successful or not.
-
-If the payment attempt is unsuccessful, you may make another attempt at payment by repeating the above.
+Once done, click on the Submit button to proceed. Please take note of the transaction outcome on whether it is successful or not. If the payment attempt is unsuccessful, you may make another attempt at payment by repeating the above.
 
 Otherwise, please contact us through our hotline at +65 6772-1288 or email us at pace@sp.edu.sg for further assistance.
 
