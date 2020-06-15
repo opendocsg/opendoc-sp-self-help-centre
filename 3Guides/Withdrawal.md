@@ -1,4 +1,4 @@
-## Making a Withdrawal/Cancellation
+# Making a Withdrawal/Cancellation
 
 ## (i) How to withdrawal/cancel a registeration?
 
