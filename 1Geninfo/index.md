@@ -1,4 +1,4 @@
 ---
-title: General information
+title: Announcements & General information
 ---
 
