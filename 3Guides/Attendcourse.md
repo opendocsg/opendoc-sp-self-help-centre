@@ -2,15 +2,31 @@
  
 ## Step 1: Search for a course
 
-### How do I search for courses on the PACE Academy website? 
+### How do I search for CET courses and find relevant course details on the PACE Academy website? 
 
-Please refer to the instructional video below:
+Navigate to your programme/course web page by clicking here --> [PACE Full Course Listing](https://www.sp.edu.sg/pace/courses/full-listing) Please ensure that you have understood the requirements of the programme/course as well as its application procedure.
+
+You may also refer to the instructional video below:
 
 [![PACE Academy SP Guide - How to search for a CET course?](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=VbOibEn33D8)
 
-<!---## Step 2: Understand course details
+## Step 2: Understand course details
 
-<!---## Step 3: Check for course availability
+### Minimum Entry Requirements and Supporting documents
+
+Before registering, please ensure that you are familiar with the Minimum Entry Requirements and prepare the relevant documents in softcopy to support your registration, among other things.
+
+For example, if a course requires that you are required to meet the O levels qualification, please scan your O Levels results in PDF format and upload it during your registration.
+
+## Step 3: Check for course availability
+
+### Find the next intake/run details 
+
+Refer to the programme/course web page for upcoming intake/run details. It will usually be displayed under
+Important Dates on the right portion of the webpage.
+
+![Finding course dates](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Finding course dates"
+
 
 <!---## Step 4: Prepare to register
 
