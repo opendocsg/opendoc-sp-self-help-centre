@@ -2,7 +2,7 @@
 
 ## Notice of Office Closure
 
-The PACE Academy office will be closed throughout the Circuit Breaker period until further notice.
+The PACE Academy office will be closed throughout the COVID-19 Circuit Breaker period until further notice.
 
 However, please be assured that all of our online services are still operating normally, including the PACE Hotline (6772-1288).
 
