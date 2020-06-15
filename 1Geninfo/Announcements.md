@@ -1,6 +1,6 @@
 # Notices and Updates
 
-## Notice of Office Closure
+## (1) Notice of Office Closure
 
 The PACE Academy office will be closed throughout the COVID-19 Circuit Breaker period until further notice.
 
@@ -10,7 +10,7 @@ However, please be assured that all of our online services are still operating n
 
 ----------------------
 
-## Status of PACE Progammes/Courses
+## (2) Status of PACE Progammes/Courses
 
 Given the current COVID-19 situation, the PACE Academy will be moving our programmes and courses onto e-learning mode. However, for certain affected programmes and courses, we may issue a notice for postponement or cancellation.
 
