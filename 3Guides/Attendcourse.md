@@ -2,6 +2,12 @@
  
 ## Step 1: Search for a course
 
+### How do I search for courses on the PACE Academy website? 
+
+Please refer to the instructional video below:
+
+[![PACE Academy SP Guide - How to search for a CET course?](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=VbOibEn33D8)
+
 ## Step 2: Understand course details
 
 ## Step 3: Check for course availability
