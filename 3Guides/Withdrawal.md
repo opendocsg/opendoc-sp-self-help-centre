@@ -9,9 +9,9 @@ You may withdraw from a course/programme or cancel a registration at any time by
 However, there may be consequences following a withdrawal/cancellation:
 
 1. If payment was made/received, you will be refunded according to the following, based on when the Withdrawal Form is received:
-* 2 weeks before the commencement of the course - 100% (full) refund
-* Less than 2 weeks before commencement of the course - 70% (partial) refund
-* On or after date of commencement - 0% (no) refund
+*   2 weeks before the commencement of the course - 100% (full) refund
+*   Less than 2 weeks before commencement of the course - 70% (partial) refund
+*   On or after date of commencement - 0% (no) refund
 
 2. For certain courses/programmes, you may no longer be eligible for the same subsidies if you wish to resume.
 3. Having made the withdrawal/cancellation, you will no longer be able to complete or continue with the rest of the course/programme.
