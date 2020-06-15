@@ -25,7 +25,7 @@ For example, if a course requires that you are required to meet the O levels qua
 Refer to the programme/course web page for upcoming intake/run details. It will usually be displayed under
 Important Dates on the right portion of the webpage.
 
-![Finding course dates](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Finding course dates"
+![Finding course dates](/assets/images_register/1Dates.jpg) "Finding course dates"
 
 
 <!---## Step 4: Prepare to register
