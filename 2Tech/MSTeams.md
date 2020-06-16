@@ -1,4 +1,4 @@
-#How to use Microsoft Team
+# How to use Microsoft Teams
 
 Microsoft(MS) Teams is a unified communication and collaboration platform that combines persistent workplace chat, video meetings, file storage (including collaboration on files), and application integration. 
 
