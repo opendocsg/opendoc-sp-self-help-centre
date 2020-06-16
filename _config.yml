@@ -21,4 +21,5 @@ styling_options:
   feedback_url: https://form.gov.sg/5e744fb8b74872001193fe6a #----> Optional, feedback url
 document_order:
   - 1Geninfo
+  - 2Tech
   - 3Guides
