@@ -19,6 +19,7 @@ Most post-2000 internet browsers have configured pop-ups to be blocked by defaul
 Please refer to the following link on how you may find help to unblock your pop-up or enable it.
 
 [Self-Help Guide - Pop up issue](https://forms.gle/t9cquMnZGMtZhdXS9) 
+(Might take some time to load)
 
 ## (2) Operating under highly secured networks or strict IT policy
 
