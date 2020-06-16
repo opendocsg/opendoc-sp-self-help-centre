@@ -2,7 +2,13 @@
 
 ## (i) How to withdrawal/cancel a registeration?
 
-You may withdraw from a course/programme or cancel a registration at any time by submitting the [Withdrawal Form](https://www.sp.edu.sg/docs/default-source/content-migration-docs/content-migration/126-pace-frm-126-02-course-withdrawal-refund-form-ver4-0-pdf8ea3279a9a5f47dd84f6888af7c572c9.pdf) to the PACE Academy.
+You may withdraw from a course/programme or cancel a registration at any time by submitting a Withdrawal Form to the PACE Academy.
+
+To submit a Withdrawal Form, please click on the corresponding link:
+
+(a) [For part-time diploma or post diploma programme](https://mycems.sp.edu.sg/psc/ppct_public/EMPLOYEE/HRMS/c/S_SR_MENU.S_WITHDRAWAL_FORM.GBL)
+
+(b) [For all other courses (WSQ, Short Courses etc.)](https://mycems.sp.edu.sg/psc/ppct_public/EMPLOYEE/HRMS/c/S_SR_MENU.S_WITHDRAWAL_FORM.GBL)
 
 ## (ii) Considerations before withdrawing/cancelling a registration
 
