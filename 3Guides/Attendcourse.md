@@ -143,6 +143,8 @@ If you would like to proceed to confirm the registration, click on the "Proceed"
 
 ## Step 6: Make payment online
 
+*Note: This guide is meant for those who are registering as individuals or in a group where payment is expected immediately after registration. For company sponsored registrations, please await for further payment instructions based on our invoicing.*
+
 ### (i) Preparing your device
 Please ensure that your pop-up is enabled (or blocker disabled) before proceeding further. This should have been resolved by the Self-Diagnostic Test page.
 
@@ -153,8 +155,6 @@ If you are unable to use Internet Edge or Safari, we recommend using Google Chro
 ### (iii) Registration ID
 
 It is important for you to have your Registration ID for this purpose. If you have just completed registration, this process will be seamless.
-
-*Note: This guide is meant for those who are registering as individuals or in a group where payment is expected immediately after registration. For company sponsored participants, please await separate payment instructions based on our Tax Invoice.*
 
 Please contact us through our hotline at +65 6772-1288 or email us at pace@sp.edu.sg for further assistance if you are unsure or facing certain difficulty.
 
