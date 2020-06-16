@@ -1,0 +1,9 @@
+#How to use Microsoft Team
+
+Microsoft(MS) Teams is a unified communication and collaboration platform that combines persistent workplace chat, video meetings, file storage (including collaboration on files), and application integration. 
+
+If your lecturer/trainer has invited you to join a session using MS Teams, please log in to your iChat before joining any online meeting invitation if you have an SP iChat account.
+
+You may refer to the following video instructional guide on how to use this teleconferencing program:
+
+[![Youtube video on MS Teams](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=OxfukizkyCA)
