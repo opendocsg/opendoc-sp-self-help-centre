@@ -4,7 +4,7 @@ Generally, you may present payment to the PACE Academy through the following way
 
 ## (1) AS AN INDIVIDUAL APPLICANT(S):
 
-| SN |	Options	| How to? |	What do I need to do? |	Remarks |
+| SN |	  Options  	|   How to?    |	What do I need to do?    |	Remarks    |
 | :---: |	:------------------:	| :--------------------------: |	:-----------------: |	:-------------- |
 | 1 |	Charge Card (Credit/Debit) or Internet Banking	| Via online payment (via PACE website) or at the SP One-Stop Centre (OSC) |	You will need your Registration ID e.g. R16000XXXXX |	We accept payments via VISA/ MasterCard or through internet banking services offered by major local banks only. You may request for a tax receipt by writing in to pace@sp.edu.sg or coming down to the OSC. |
 | 2 |	NETs / NETs Flashpay	| Over at OSC |	We require your NRIC/FIN/Passport or Registration ID |	For cards which support NETs payment service.Please ensure that you are presented with a receipt after the transaction. Cut off time for NETs payment is 30mins before scheduled closure. |
@@ -58,13 +58,13 @@ If the amount received by PACE Academy ultimately falls short of the amount paya
 
 Please instruct your bank to transfer payment to:
 
-**Account Name:	Singapore Polytechnic
-Account Number:	02-059-3368-8
-Bank Code:	9496
-Branch Code:	002
-Swift Code:	SCBLSG22XXX
-Bank's Name:	Standard Chartered Bank (Singapore) Limited
-Bank's Address:	8 Marina Boulevard, #27-01, Marina Bay Financial Centre, Singapore 018981**
+* **Account Name:	Singapore Polytechnic**
+* **Account Number:	02-059-3368-8**
+* **Bank Code:	9496**
+* **Branch Code:	002**
+* **Swift Code:	SCBLSG22XXX**
+* **Bank's Name:	Standard Chartered Bank (Singapore) Limited**
+* **Bank's Address:	8 Marina Boulevard, #27-01, Marina Bay Financial Centre, Singapore 018981**
 
 #### STEP 4: Updating PACE Academy/Singapore Polytechnic
 
