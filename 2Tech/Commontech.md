@@ -1,4 +1,4 @@
-# Common Technical Issues faced by users
+# Common Technical Issues Faced by Users
 
 Please take a moment to read through the following for a better understanding on how to overcome commonly reported technical issues.
 
