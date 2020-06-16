@@ -16,10 +16,10 @@ Generally, you may present payment to the PACE Academy through the following way
 
 ## 2) AS A COMPANY SPONSORED APPLICANT(S):
 
-| SN |	Options	| How to? |	What do I need to do? |	Remarks |
+| SN |	  Options   	|   How to?     |	  What do I need to do?   |	Remarks |
 | :---: |	:----------:	| :---------------------: |	:-----------------: |	:--------------------------------|
-| 1 |	Corporate Cheque	| Via post or Over at the OSC.|	Please follow the instructions below. |	Please ensure that you are presented with an acknowledgement of receipt at the counter. Our official receipt will be forthcoming once the cheque has been banked in.  |
-| 2 |	Inter-Bank GIRO or Telegraphic Transfer	| HVia banks or agents only |	Please follow the instructions below |	Please note that you should put in a request with the Programme Administrator before making payment through this option, and update on the transactions details once payment has been made accordingly. Please also note that payments other than Corporate Cheque may disqualify your company from claiming grants/allowances with relevant government agencies (companies are encouraged to make their own verification if necessary on this matter via SkillsConnect). |
+| 1 |	Corporate Cheque	| Via post or Over at the OSC.  |	Please follow the instructions below. |	Please ensure that you are presented with an acknowledgement of receipt at the counter. Our official receipt will be forthcoming once the cheque has been banked in.  |
+| 2 |	Inter-Bank GIRO or Telegraphic Transfer	| Via banks or agents only   |	Please follow the instructions below |	Please note that you should put in a request with the Programme Administrator before making payment through this option, and update on the transactions details once payment has been made accordingly. Please also note that payments other than Corporate Cheque may disqualify your company from claiming grants/allowances with relevant government agencies (companies are encouraged to make their own verification if necessary on this matter via SkillsConnect). |
 
 ## (3) INSTRUCTIONS FOR CHEQUE PAYMENTS
 
