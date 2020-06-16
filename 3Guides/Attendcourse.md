@@ -1,4 +1,4 @@
-# How to attend a programme/course offered by the PACE Academy? 
+# Attending a course at the PACE Academy, Singapore Polytechnic
 
 ## Step 1: Search for a course
 
