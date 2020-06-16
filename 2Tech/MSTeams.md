@@ -2,7 +2,7 @@
 
 Microsoft(MS) Teams is a unified communication and collaboration platform that combines persistent workplace chat, video meetings, file storage (including collaboration on files), and application integration. 
 
-If your lecturer/trainer has invited you to join a session using MS Teams, please log in to your iChat before joining any online meeting invitation if you have an SP iChat account.
+If your lecturer/trainer has invited you to join a session using MS Teams, please log in to your iChat account before joining any online meeting invitation.
 
 You may refer to the following video instructional guide on how to use this teleconferencing program:
 
