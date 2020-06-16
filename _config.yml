@@ -1,5 +1,5 @@
 title: PACE Academy Self Help Centre
-remote_theme: opendocsg/opendoc-theme@v2
+remote_theme: opendocsg/opendoc-theme
 timezone: Asia/Singapore
 repository: opendocsg/opendoc-sp-self-help-centre
 plugins:
@@ -7,19 +7,33 @@ plugins:
 baseurl: ''
 server_PROD: 'https://search.opendoc.sg'
 server_DEV: 'https://search-staging.opendoc.sg'
-google_analytics:  #----> Optional, Google analytics ID
+google_analytics: #----> Optional, Google analytics ID
 
-fast_build: true 
+fast_build: false
 offline: false
-preload_pages: true 
+preload_pages: true
 
-offline_search_only: false
 styling_options:
   primary_brand_color: '#000080'
   logo_path: /assets/sp3.jpg
   opendoc_logo_path: /assets/sp3.jpg
   feedback_url: https://form.gov.sg/5e744fb8b74872001193fe6a #----> Optional, feedback url
-document_order:
-  - 1Geninfo
-  - 2Tech
-  - 3Guides
+
+folders:
+  - name: '1Geninfo'
+    title: 'Announcements & General Information'
+    order:
+      - Announcements.md
+      - OSC.md
+      - Gettinghere.md
+  - name: '2Tech'
+    title: 'Technical e-Helpdesk '
+    order:
+      - Commontech.md
+      - MSTeams.md
+  - name: '3Guides'
+    title: 'Customer Experience Guides'
+    order:
+      - Attendcourse.md
+      - Withdrawal.md
+      - Paymentoptions.md
