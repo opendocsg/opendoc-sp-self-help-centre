@@ -81,7 +81,7 @@ OR
 
 ![Fill information](/assets/images_register/5FillInfo.jpg "Fill information")
 
-### (iv) Who should be applying?
+### (iv) Who should be registering?
 
 *   **Individual** - The named individual who will be participating in the course must be the person registering.
 
@@ -177,9 +177,9 @@ After which, you may input the required payment information accordingly. Please 
 
 Once done, click on the Submit button to proceed. Please take note of the transaction outcome on whether it is successful or not. If the payment attempt is unsuccessful, you may make another attempt at payment by repeating the above.
 
-Otherwise, please contact us through our hotline at +65 6772-1288 or email us at pace@sp.edu.sg for further assistance.
-
 After making the payment and determine that it was successful, you are strongly encouraged to check your bank balance or other notifications to confirm that the amount has been deducted accordingly.
+
+Otherwise, please contact us through our hotline at +65 6772-1288 or email us at pace@sp.edu.sg for further assistance.
 
 You may also refer to the video below:
 
