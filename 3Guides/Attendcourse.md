@@ -1,4 +1,4 @@
-# Attending a course at the PACE Academy, Singapore Polytechnic
+# Attending a course at the PACE Academy
 
 ## Step 1: Search for a course
 
