@@ -12,8 +12,10 @@ However, please be assured that all of our online services are still operating n
 
 ## (2) Status of PACE Progammes/Courses
 
-Given the current COVID-19 situation, the PACE Academy will be moving our programmes and courses onto e-learning mode. However, for certain affected programmes and courses, we may issue a notice for postponement or cancellation.
+Given the current COVID-19 situation, the PACE Academy will be moving most of our programmes and courses onto e-learning or online instruction mode. However, for certain affected programmes and courses, we may issue a notice for postponement or cancellation.
+
+As to how the Circurit Breaker measures are being eased, the academy may be allowed to offer classroom based courses again, albeit with safety restrictions.
 
 Our programme administrators will be communicating on these alternative arrangements to all trainers, students and participants accordingly.
 
-[06 Apr 2020]
+[16 June 2020]
