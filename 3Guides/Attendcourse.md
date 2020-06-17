@@ -8,9 +8,8 @@ Navigate to your programme/course web page by clicking here --> [PACE Full Cours
 
 You may also refer to the instructional video below:
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=VbOibEn33D8
-" target="_blank"><img src="http://img.youtube.com/vi/VbOibEn33D8/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VbOibEn33D8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
 ## Step 2: Understand course details
 
@@ -185,9 +184,7 @@ Otherwise, please contact us through our hotline at +65 6772-1288 or email us at
 
 You may also refer to the video below:
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=mzxEDLwWHKU
-" target="_blank"><img src="http://img.youtube.com/vi/mzxEDLwWHKU/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mzxEDLwWHKU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <!---## Step 7: Things to check after registration--->
 
