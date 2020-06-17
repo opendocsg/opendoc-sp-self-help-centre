@@ -21,7 +21,6 @@ We have also prepared these videos which will guide you on how you can walk or d
 </div>
 
 
-
 [![Walking from Gate 1](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/yFYrg3plopg)
 
 
