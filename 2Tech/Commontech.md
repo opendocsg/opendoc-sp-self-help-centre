@@ -32,9 +32,8 @@ You are also advised not to attempt any registration or payment while being conn
 - **SOLUTION**
 
 You should be able to overcome this by simply:
-* connecting to your own personal internet network
-* using a personal device e.g. notebook etc.
-* using a smartphone or tablet connected on mobile data.
+* switch to your own personal internet network or mobile data AND/OR
+* using a personal computer e.g. desktop PC or notebook etc.
 
 If you are required to do the registration officially using your company issued notebook or device, please send in a request for a direct registration link by contacting us at the PACE Hotline at 6772 1288 or email to pace@sp.edu.sg.
 
@@ -54,9 +53,9 @@ This is an irregular response from our server which could be due to several reas
 
 If the above error is encountered, users are advised to perform the following:
 
-(i) Completely clear your cache, cookies, browser history and temporary files and restart the browser afresh *AND/OR*
+1. Completely clear your cache, cookies, browser history and temporary files and restart the browser afresh *AND/OR*
 
-(ii) Shutdown the notebook or device completely (for smartphones, please ensure the app is killed/deactivated first) and turning it back on again.
+2. Shutdown the notebook or device completely (for smartphones, please ensure the app is killed/deactivated first) and turning it back on again.
 
 After doing so, please make another attempt at registration/payment.
 
