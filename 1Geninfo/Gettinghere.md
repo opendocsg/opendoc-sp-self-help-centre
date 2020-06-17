@@ -15,24 +15,13 @@ The PACE Academy is located within the Singapore Polytechnic (SP) and almost all
 We have also prepared these videos which will guide you on how you can walk or drive to the PACE Academy from:
 
 #### Walk from Dover MRT
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=pdTsjfa-pmc
-" target="_blank"><img src="http://img.youtube.com/vi/pdTsjfa-pmc/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pdTsjfa-pmc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 #### Walk from Gate 1 (Drop off point at Admin Block 1 via Dover Road)
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=yFYrg3plopg
-" target="_blank"><img src="http://img.youtube.com/vi/yFYrg3plopg/0.jpg" 
-alt="Walk from Gate 1" width="240" height="180" border="10" /></a> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yFYrg3plopg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 #### Drive from Gate 1 (via Dover Road Road)
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=AvLnME9eN74
-" target="_blank"><img src="http://img.youtube.com/vi/AvLnME9eN74/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AvLnME9eN74" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 #### Drive from Gate 8 (via Commonwealth Avenue West Road)
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=PCJFJG7sfbw
-" target="_blank"><img src="http://img.youtube.com/vi/PCJFJG7sfbw/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PCJFJG7sfbw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
