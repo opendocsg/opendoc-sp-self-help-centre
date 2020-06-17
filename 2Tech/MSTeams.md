@@ -8,8 +8,6 @@ If you do not have the software, you may login to your Microsoft account portal 
 
 You may refer to the following video instructional guide on how to use this teleconferencing program:
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=OxfukizkyCA
-" target="_blank"><img src="http://img.youtube.com/vi/OxfukizkyCA/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OxfukizkyCA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 *As the above video is from an external source, the PACE Academy, Singapore Polytechnic, will not be responsible for its quality and/or contents. For reference purposes only.*
