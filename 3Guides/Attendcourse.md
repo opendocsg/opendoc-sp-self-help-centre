@@ -8,7 +8,9 @@ Navigate to your programme/course web page by clicking here --> [PACE Full Cours
 
 You may also refer to the instructional video below:
 
-[![PACE Academy SP Guide - How to search for a CET course?](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=VbOibEn33D8)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=VbOibEn33D8
+" target="_blank"><img src="http://img.youtube.com/vi/VbOibEn33D8/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ## Step 2: Understand course details
 
@@ -183,7 +185,9 @@ Otherwise, please contact us through our hotline at +65 6772-1288 or email us at
 
 You may also refer to the video below:
 
-[![Video for Online Payment](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=mzxEDLwWHKU)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=mzxEDLwWHKU
+" target="_blank"><img src="http://img.youtube.com/vi/mzxEDLwWHKU/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 <!---## Step 7: Things to check after registration--->
 
