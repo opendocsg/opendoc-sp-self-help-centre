@@ -14,9 +14,9 @@ The PACE Academy is located within the Singapore Polytechnic (SP) and almost all
 
 We have also prepared these videos which will guide you on how you can walk or drive to the PACE Academy from:
 
-
+<body>
 <div class="opendoc-video">
 <iframe width="560" height="315" src="https://youtu.be/pdTsjfa-pmc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
-
+</body>
 
