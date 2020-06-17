@@ -17,6 +17,6 @@ We have also prepared these videos which will guide you on how you can walk or d
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=yFYrg3plopg
 " target="_blank"><img src="http://img.youtube.com/vi/yFYrg3plopg/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" /></a> 
+alt="Walk from Gate 1" width="480" height="360" border="10" /></a> 
 
 
