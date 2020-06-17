@@ -8,6 +8,8 @@ If you do not have the software, you may login to your Microsoft account portal 
 
 You may refer to the following video instructional guide on how to use this teleconferencing program:
 
-[![Youtube video on MS Teams](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=OxfukizkyCA)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=OxfukizkyCA
+" target="_blank"><img src="http://img.youtube.com/vi/OxfukizkyCA/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 *As the above video is from an external source, the PACE Academy, Singapore Polytechnic, will not be responsible for its quality and/or contents. For reference purposes only.*
