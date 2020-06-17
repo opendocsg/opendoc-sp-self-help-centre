@@ -14,17 +14,9 @@ The PACE Academy is located within the Singapore Polytechnic (SP) and almost all
 
 We have also prepared these videos which will guide you on how you can walk or drive to the PACE Academy from:
 
-[![Walking from Dover MRT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/pdTsjfa-pmc)
 
 <div class="opendoc-video">
 <iframe width="560" height="315" src="https://youtu.be/pdTsjfa-pmc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 
-[![Walking from Gate 1](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/yFYrg3plopg)
-
-
-[![Driving from Gate 1](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/AvLnME9eN74)
-
-
-[![Driving from Gate 8](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/PCJFJG7sfbw)
