@@ -25,12 +25,12 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 " target="_blank"><img src="http://img.youtube.com/vi/yFYrg3plopg/0.jpg" 
 alt="Walk from Gate 1" width="240" height="180" border="10" /></a> 
 
-#### Drive from Gate 1 (via Dover Road road)
+#### Drive from Gate 1 (via Dover Road Road)
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=AvLnME9eN74
 " target="_blank"><img src="http://img.youtube.com/vi/AvLnME9eN74/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
-#### Drive from Gate 8 (via Commonwealth Avenue West)
+#### Drive from Gate 8 (via Commonwealth Avenue West Road)
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=PCJFJG7sfbw
 " target="_blank"><img src="http://img.youtube.com/vi/PCJFJG7sfbw/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
