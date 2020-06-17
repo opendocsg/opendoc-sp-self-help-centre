@@ -20,7 +20,7 @@ We have also prepared these videos which will guide you on how you can walk or d
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
-#### Walk from Gate 1 (Drop off at Admin Block 1)
+#### Walk from Gate 1 (Drop off point at Admin Block 1 via Dover Road)
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=yFYrg3plopg
 " target="_blank"><img src="http://img.youtube.com/vi/yFYrg3plopg/0.jpg" 
 alt="Walk from Gate 1" width="240" height="180" border="10" /></a> 
