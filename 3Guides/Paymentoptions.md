@@ -89,7 +89,7 @@ You may only transfer payment to the Training Provider via SkillsFuture Credit P
 This claim notwithstanding, applicants are required to make prompt payment for any outstanding course fee amount balance.
  
  #### Applicable for SFC 2
- 
+  
 *To further this purpose, a one-off SkillsFuture Credit top-up was announced. From 1 April 2020, $500 will be provided to every Singapore Citizen aged 25 years and above as at 31 December 2020 which can be used on eligible courses. This top-up amount will expire on 31 Dec 2025.*
 
 Please refer to instructions by the Programme Administrator (PA) after registration. The PA will provide you with a manual form to fill in which will be submitted to the agency concerned on your behalf.
